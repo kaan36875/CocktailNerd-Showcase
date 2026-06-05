@@ -1,7 +1,6 @@
 # 🍸 CocktailNerd – AI-Integrated Mixology App
 
 ![AI Powered](https://img.shields.io/badge/AI_Powered-Dynamic-8A2BE2?style=for-the-badge)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 > **Note:** This repository serves as a portfolio showcase. The core source code and proprietary AI integration models remain private.
@@ -18,7 +17,7 @@ The core of the application features an embedded AI agent designed to provide dy
 *   **Sleek Interface:** A visually appealing, night-mode optimized design fitting the mixology theme.
 
 ### 🛠️ Built With
-*   **Front-end:** SwiftUI & Flutter
+*   **Front-end:** Flutter
 *   **Intelligence:** AI API Integrations & Prompt Engineering
 *   **Languages:** Swift, Dart, Python (for backend/AI logic modeling)
 
