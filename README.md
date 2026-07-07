@@ -1,4 +1,4 @@
-# 🍸 CocktailNerd – AI-Integrated Mixology App
+# 🍸 Shakr – AI-Integrated Mixology App
 
 ![AI Powered](https://img.shields.io/badge/AI_Powered-Dynamic-8A2BE2?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -6,7 +6,7 @@
 > **Note:** This repository serves as a portfolio showcase. The core source code and proprietary AI integration models remain private.
 
 ### 🤖 About The Project
-**CocktailNerd** is a next-generation mixology application that bridges the gap between traditional cocktail crafting and modern artificial intelligence. 
+**Shakr** is a next-generation mixology application that bridges the gap between traditional cocktail crafting and modern artificial intelligence. 
 
 The core of the application features an embedded AI agent designed to provide dynamic, personalized, and context-aware interactions. Whether a user is looking for a recipe based on ingredients they already have or wants to discover entirely new flavor profiles, the AI assistant guides them seamlessly through the process.
 
